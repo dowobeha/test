@@ -1,0 +1,12 @@
+Week	Date	Status	Author	Title	URL
+2	2018-09-04	0	Shotts	Chapter 6 - "Redirection"	
+2	2018-09-04	0	Schwartz	Lecture notes to accompany video lectures	https://github.com/2017-Fall-UIUC-LING402/lectures/tree/master/Shotts_ch6
+2	2018-09-04	0	Schwartz	Video Lectures covering standard input, standard output, and standard error streams, as well as redirection	https://www.youtube.com/playlist?list=PLydysiDoFy5U5azdURmcOqNd26c9KKkXd
+2	2018-09-04	0	Schwartz	Video Lectures covering cat, uniq, wc, grep, head, and tail	https://www.youtube.com/playlist?list=PLydysiDoFy5X05aMvr7cE3qCOV7lT8gcm
+2	2018-09-04	0	Shotts	Chapter 7 - "Seeing the world as the shell sees it"	
+2	2018-09-04	0	Schwartz	Video lectures covering expansions, substitutions, escaping, and quoting	https://www.youtube.com/playlist?list=PLydysiDoFy5XconOvRwpEX-9zQj-dhY2Y
+2	2018-09-04	0	Ramey	Section 3.1 - "Shell syntax"	
+2	2018-09-04	0	Ramey	Section 3.5 - "Shell expansions"	
+2	2018-09-04	0	Shotts	Chapter 19 - "Regular expressions"	
+2	2018-09-04	0	Schwartz	Video lectures covering grep regular expressions	https://www.youtube.com/playlist?list=PLydysiDoFy5VwK8RajTwNzW8v4edsi8hL
+2	2018-09-04	0	Schwartz	Video lecture: Determining the most frequent words in a corpus using basic shell commands	https://www.youtube.com/playlist?list=PLydysiDoFy5XXg3ht-cPoVjQqzcUCJOwY
