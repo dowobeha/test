@@ -1,12 +1,12 @@
 Week	Date	Status	Author	Title	URL
-1	2018-08-30	0	Ramey	Chapter 1 - "Introduction"	
-1	2018-08-30	0	Ramey	Chapter 2 - "Definitions"	
-1	2018-08-30	0	Shotts	Chapter 1 - "What is the shell?"	
-1	2018-08-30	0	Shotts	Chapter 2 - "Navigation"	
-1	2018-08-30	0	Shotts	Chapter 3 - "Exploring the system"	
-1	2018-08-30	0	Shotts	Chapter 4 - "Manipulating files and directories"	
-1	2018-08-30	0	Shotts	Chapter 12 - "A gentle introduction to vi"	
-1	2018-08-30	0	Shotts	Chapter 24 - "Writing your first script"	
+1	2018-08-30	0	Ramey	Chapter 1 - Introduction	
+1	2018-08-30	0	Ramey	Chapter 2 - Definitions	
+1	2018-08-30	0	Shotts	Chapter 1 - What is the shell?	
+1	2018-08-30	0	Shotts	Chapter 2 - Navigation	
+1	2018-08-30	0	Shotts	Chapter 3 - Exploring the system	
+1	2018-08-30	0	Shotts	Chapter 4 - Manipulating files and directories	
+1	2018-08-30	0	Shotts	Chapter 12 - A gentle introduction to vi	
+1	2018-08-30	0	Shotts	Chapter 24 - Writing your first script	
 1	2018-08-30	0	Schwartz	Video Lectures covering cal, date, pwd, exit, mkdir, ls, less, rm, cd, ln file, cp, echo, bash navigation, and relative paths	https://www.youtube.com/playlist?list=PLydysiDoFy5XbOE5TQYZyO7xfEdv8pgb3
 1	2018-08-30	0	Github	Cloning a repository	https://help.github.com/articles/cloning-a-repository
 1	2018-08-30	0	Chacon and Straub	Chapter 1: Getting Started (with git)	https://git-scm.com/book/en/v2
